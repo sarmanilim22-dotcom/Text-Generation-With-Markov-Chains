@@ -1,0 +1,20 @@
+Artificial Intelligence is transforming the world.
+Machine learning is a branch of Artificial Intelligence.
+Deep learning is a subset of machine learning.
+Python is one of the most popular programming languages.
+AI is used in healthcare.
+AI is used in education.
+AI is used in finance.
+AI is used in agriculture.
+Data science helps organizations make better decisions.
+Neural networks are inspired by the human brain.
+Computer vision enables machines to understand images.
+Natural Language Processing helps computers understand text.
+Chatbots use NLP to answer questions.
+Large language models generate human-like text.
+Artificial Intelligence is changing industries.
+Machine learning algorithms learn from data.
+Python provides many libraries for AI.
+TensorFlow is used for deep learning.
+PyTorch is another popular deep learning framework.
+Generative AI creates text, images, music, and code.
